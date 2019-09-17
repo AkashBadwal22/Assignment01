@@ -18,7 +18,7 @@ const AppRouter =()=> (
       </div>
     </Switch>
     <Footer />
-  </Router>
+    </Router>
 )
 
 export default AppRouter

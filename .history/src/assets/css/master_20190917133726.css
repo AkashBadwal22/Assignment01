@@ -20,7 +20,7 @@ body{
 .header .logo{
   max-width:60px;
 }
-.header a:hover{
+.header a:hover,.header a.active{
   color: #000;
 }
 .footer{
